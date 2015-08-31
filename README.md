@@ -1,4 +1,4 @@
-# simple facebook login (PHP SDK v5)
+# Simple Facebook Login (PHP SDK v5)
 This is simple PHP for Facebook Login to get user information and then store it into MySQL database
 
 Installation :

@@ -26,6 +26,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `users`
 --
 
+
 CREATE TABLE IF NOT EXISTS `users` (
   `ID` bigint(20) unsigned NOT NULL,
   `fb_id` varchar(100) NOT NULL,

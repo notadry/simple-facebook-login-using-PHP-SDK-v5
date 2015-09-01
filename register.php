@@ -32,7 +32,6 @@ if (empty($check)) { // if new user . Insert a new record
 
 
 
-
 //if (!mysql_query($query,$conn)){
 //    die('Error: ' . mysql_error());
 //}

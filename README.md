@@ -19,7 +19,7 @@ This is simple PHP for Facebook Login to get user information and then store it 
     $my_url     = "YOUR APP DOMAIN";
 ```
 
-3. Done
+3.&nbsp; Done
 
 <br>
 <hr>

@@ -2,6 +2,7 @@
 This is simple PHP for Facebook Login to get user information and then store it into MySQL database
 
 Installation : <br>
+<<<<<<< HEAD
 <ol>
     <li>Create database via phpmyadmin</li>
     <li>Setting dbconfig.php</li>
@@ -25,8 +26,8 @@ How to setup your facebook APP :
     <li>Done</li>
 </ol>
 
-<br>
-<br>
 
+<br>
+<hr>
 
 heyadry@gmail.com

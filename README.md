@@ -22,6 +22,8 @@ Edit this line into your facebook app configuration. <br>
 Done.
 
 <br>
+Complete documentation, installation instructions, and examples are available at: [https://developers.facebook.com/docs/php](https://developers.facebook.com/docs/php)
+<br>
 
 <hr>
 heyadry@gmail.com

@@ -15,14 +15,14 @@ How to setup your facebook APP :
 <ol>
     <li>Open fbconfig.php</li>
     <li>Edit this line into your facebook app configuration</li>
-    ```php
-        $appID      = "YOUR APP ID";
-        $appSecret  = "YOUR APP SECRET";
-        $my_url     = "YOUR APP DOMAIN";
-    ```
     <li>Done</li>
 </ol>
 
+```php
+    $appID      = "YOUR APP ID";
+    $appSecret  = "YOUR APP SECRET";
+    $my_url     = "YOUR APP DOMAIN";
+```
 
 <br>
 <hr>

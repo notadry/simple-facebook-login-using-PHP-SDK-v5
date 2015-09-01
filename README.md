@@ -1,28 +1,23 @@
 # Simple Facebook Login (PHP SDK v5)
 This is simple PHP for Facebook Login to get user information and then store it into MySQL database
 
-Installation : <br>
-<ol>
-    <li>Create database via phpmyadmin</li>
-    <li>Setting `dbconfig.php`</li>
-    <li>Import file `IMPORT.sql` via phpmyadmin</li>
-    <li>Done</li>
-</ol>
+Installation :
+1. Create database via phpmyadmin
+2. Setting `dbconfig.php`
+3. Import file `IMPORT.sql` via phpmyadmin
+4. Done
 
 <hr>
 
 How to setup your facebook APP :
-<ol>
-    <li>Open `fbconfig.php`</li>
-    <li>Edit this line into your facebook app configuration</li>
+1. Open `fbconfig.php`
+2. Edit this line into your facebook app configuration
 ```php
     $appID      = "YOUR APP ID";
     $appSecret  = "YOUR APP SECRET";
     $my_url     = "YOUR APP DOMAIN";
 ```
-
-    <li>Done</li>
-</ol>
+3. Done
 
 <br>
 <hr>

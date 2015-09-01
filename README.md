@@ -10,8 +10,8 @@ This is simple PHP for Facebook Login to get user information and then store it 
 4. Done <br>
 
 ## How to setup your facebook APP
-1. Open `fbconfig.php` <br>
-2. Edit this line into your facebook app configuration <br>
+Open `fbconfig.php`. <br>
+Edit this line into your facebook app configuration. <br>
 
 ```php
     $appID      = "YOUR APP ID";
@@ -19,7 +19,7 @@ This is simple PHP for Facebook Login to get user information and then store it 
     $my_url     = "YOUR APP DOMAIN";
 ```
 
-3.&nbsp; Done
+Done.
 
 <br>
 <hr>

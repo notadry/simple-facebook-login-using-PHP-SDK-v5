@@ -4,8 +4,8 @@ This is simple PHP for Facebook Login to get user information and then store it 
 Installation : <br>
 <ol>
     <li>Create database via phpmyadmin</li>
-    <li>Setting dbconfig.php</li>
-    <li>Import file IMPORT.sql via phpmyadmin</li>
+    <li>Setting `dbconfig.php`</li>
+    <li>Import file `IMPORT.sql` via phpmyadmin</li>
     <li>Done</li>
 </ol>
 
@@ -13,16 +13,16 @@ Installation : <br>
 
 How to setup your facebook APP :
 <ol>
-    <li>Open fbconfig.php</li>
+    <li>Open `fbconfig.php`</li>
     <li>Edit this line into your facebook app configuration</li>
-    <li>Done</li>
-</ol>
-
 ```php
     $appID      = "YOUR APP ID";
     $appSecret  = "YOUR APP SECRET";
     $my_url     = "YOUR APP DOMAIN";
 ```
+
+    <li>Done</li>
+</ol>
 
 <br>
 <hr>
